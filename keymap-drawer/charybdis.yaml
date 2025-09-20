@@ -56,7 +56,7 @@ layers:
   - ENTER
   - LANGUAGE 2
   - L CLK
-  - INT KANA
+  - LANGUAGE 1
   NUMBERS:
   - {t: ▽, type: trans}
   - F1
