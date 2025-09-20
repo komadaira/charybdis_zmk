@@ -52,11 +52,11 @@ layers:
   - R CLK
   - NUMBERS
   - SPACE
-  - '1'
+  - BACK SPACE
   - ENTER
   - LANGUAGE 2
   - L CLK
-  - '2'
+  - INT KANA
   NUMBERS:
   - {t: ▽, type: trans}
   - F1
