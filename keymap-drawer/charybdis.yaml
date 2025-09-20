@@ -49,14 +49,14 @@ layers:
   - .
   - /
   - _
-  - SPACE
-  - L CLK
   - R CLK
-  - BACK SPACE
-  - ENTER
   - NUMBERS
-  - LANG2
-  - INT KANA
+  - SPACE
+  - '1'
+  - ENTER
+  - LANGUAGE 2
+  - L CLK
+  - '2'
   NUMBERS:
   - {t: ▽, type: trans}
   - F1
@@ -107,11 +107,11 @@ layers:
   - {t: ▽, type: trans}
   - INT YEN
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   CONFIG:
